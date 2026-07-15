@@ -441,7 +441,7 @@ const MENU = {
       desc: 'Minuman signature Tokopi berbasis taro dengan rasa yang creamy dan khas',
       harga: 'Rp 24.000',
       emoji: '💜',
-      img: 'drink/TO taro.jpg',
+      img: 'drink/To taro.jpg',
       badge: 'Signature',
       tag: 'Signature'
     },
